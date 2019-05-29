@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ListYourCar</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="car_make">Car Make</string>
+    <string name="car_model">Car Model</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="price">Price</string>
+    <string name="save">Save</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="created_on">Created On</string>
+    <string name="choose_an_option_below">Choose an Option Below</string>
+</resources>
